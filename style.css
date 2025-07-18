@@ -348,6 +348,8 @@
   z-index: 1;
 }
 
+
+
 /* Intro Section */
 .portfolio-intro h2 {
   font-size: 2rem;
@@ -365,3 +367,14 @@
 .portfolio-projects p {
   color: #555;
 }
+
+
+  .row {
+    padding-bottom: 2rem;
+    margin-bottom: 2.5rem;
+    border-bottom: 2px dashed #ced4da; /* Light gray line */
+     
+  }
+
+ 
+
